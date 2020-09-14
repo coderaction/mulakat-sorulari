@@ -6,3 +6,5 @@ Bu repo, mülakat sorularını içerir
 
 - Stream Kavramı nedir, ne için kullanılır ?
 - Memory, File, Network Stream kavramları nelerdir, kullandıysanız hangi stream türünü kullandınız ? 
+- Serialization Nedir ? 
+- Serialization Tipleri nelerdir ? 
