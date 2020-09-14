@@ -1,3 +1,8 @@
-# Yazılım Mülakat Soruları
-1- Stream Kavramı nedir, ne için kullanılır ?
-2- Memory, File, Network Stream kavramları nelerdir ?
+# Mülakat Soruları
+
+Bu repo, mülakat sorularını içerir
+
+### CSharp c#
+
+- Stream Kavramı nedir, ne için kullanılır ?
+- Memory, File, Network Stream kavramları nelerdir ?
