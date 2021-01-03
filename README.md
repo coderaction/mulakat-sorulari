@@ -8,3 +8,4 @@ Bu repo, mülakat sorularını içerir
 - Memory, File, Network Stream kavramları nelerdir, kullandıysanız hangi stream türünü kullandınız ? 
 - Serialization Nedir ? 
 - Serialization Tipleri nelerdir ? 
+- Solid prensiblerini birer ornek vererek tanimlama yapabilir misiniz? 
