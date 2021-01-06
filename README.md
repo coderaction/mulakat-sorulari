@@ -2,7 +2,7 @@
 
 Bu repo, mülakat sorularını içerir
 
-### CSharp c#
+### Sorular
 
 - Stream Kavramı nedir, ne için kullanılır ?
 - Memory, File, Network Stream kavramları nelerdir, kullandıysanız hangi stream türünü kullandınız ? 
