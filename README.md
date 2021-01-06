@@ -10,3 +10,5 @@ Bu repo, mülakat sorularını içerir
 - Serialization Tipleri nelerdir ? 
 - Solid prensiblerini birer ornek vererek tanimlama yapabilir misiniz? 
 - Abstract method ile virtual method arasinda ki farklar nelerdir ?
+- Solid Prensiplerini sayabilir misiniz ?
+- Solid Prensiplerini birkac cumle ile kisa olarak aciklayabilir misiniz ?
